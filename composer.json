@@ -1,0 +1,13 @@
+{
+    "name": "jmiycen/agent",
+    "description": "agent for hyperf",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jmiy Cen",
+            "email": "751399695@qq.com"
+        }
+    ],
+    "require": {}
+}
